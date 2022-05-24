@@ -1,4 +1,4 @@
-package minimal;
+package calculadora;
 
 public class Calculadora {
 	private double valorA;

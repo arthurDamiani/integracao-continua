@@ -1,4 +1,4 @@
-package minimal;
+package calculadora;
 
 import javax.swing.JOptionPane;
 
